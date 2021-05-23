@@ -6,9 +6,9 @@ var fedTime, lastFed, feed, addFood;
 
 
 function preload(){
-  sadDog=loadImage("Images/Dog.png");
-  happyDog=loadImage("Images/happydog.png"); 
-  bowlImg = loadImage("Images/milkbowl.png")
+  sadDog=loadImage("images/Dog.png");
+  happyDog=loadImage("images/happydog.png"); 
+  bowlImg = loadImage("images/milkbowl.png")
 
   drink = loadSound("sound.mp3")
 }
